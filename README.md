@@ -1,0 +1,2 @@
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=colaboy99&show_icons=true&bg_color=7f7fd5,86a8e7,91eae4&title_color=170b3b&text_color=f2f2f2&icon_color=170b3b)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=colaboy99&layout=compact&bg_color=7f7fd5,86a8e7,91eae4&title_color=170b3b&text_color=f2f2f2)](https://github.com/anuraghazra/github-readme-stats)
